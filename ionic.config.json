@@ -1,0 +1,8 @@
+{
+  "name": "dnd serv",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "749ddd11"
+}
